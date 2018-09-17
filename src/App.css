@@ -1,3 +1,7 @@
+.activeCard {
+  color: red;
+  background:pink;
+ }
 .App {
   text-align: center;
 }
@@ -36,3 +40,4 @@
   margin: 1em;
   user-select: none;
  }
+ 
