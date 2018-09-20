@@ -11,7 +11,7 @@ class App extends Component {
     <div className="activeCard">
     <WordCard value={word}/>
     </div>
-    );
+    );555
    }
    
 }
