@@ -3,18 +3,14 @@ import logo from './logo.svg';
 import './App.css';
 import WordCard from './WordCard';
 
-
-const word = "Hello";
+const word = "HELLO";
 class App extends Component {
   render() {
     return (
-    <div className="activeCard">
+    <div className="activecard">
     <WordCard value={word}/>
     </div>
-    );555
+    );
    }
-   
-}
-
-
+ }
 export default App;

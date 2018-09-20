@@ -10,7 +10,7 @@ export default class CharacterCard extends Component {
    
     activate = () => {
     if(!this.state.active){
-    this.setState({active: true, seq})
+    this.setState({active: true})
     }
     }
     render(){
@@ -22,4 +22,5 @@ export default class CharacterCard extends Component {
     )
     }
    }
+   
    
