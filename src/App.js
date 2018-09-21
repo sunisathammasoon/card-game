@@ -4,8 +4,8 @@ import './App.css';
 import WordCard from './WordCard';
 import Bowoffice from './Bowoffice';
 
-const word = "5910110358";
-const bow = "Engineering";
+const word = "PIKACHU";
+const bow = "POKEBALL";
 class App extends Component {
   render() {
     return (
