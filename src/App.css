@@ -1,17 +1,17 @@
 .activeCardcopy {
-  color: white;
-  background: blue;
+  color: #E6E6FA;
+  background: #A020F0;
  }
 .activeCard {
-  color: red;
-  background: pink;
+  color: #FFF5EE;
+  background: #FF6347;
  }
 .card{
   display: inline-block;
  text-align: center;
  width: 3em;
  font-size: 2em;
- box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+ box-shadow: 0 4px 8px 0 rgba(0,0,0,0.8);
  margin: 1em;
  user-select: none;
 }
