@@ -1,3 +1,7 @@
+.activeCardcopy {
+  color: white;
+  background: blue;
+ }
 .activeCard {
   color: red;
   background: pink;
